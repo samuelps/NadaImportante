@@ -104,3 +104,33 @@
 *** Cualidades necearias
     Buen humor
     Templanza
+
+** Capacitividad 
+   El anima habitara en ti y modificara un poco todo tu sistema nervioso, te condecera
+   de una capacidad de movimiento unica, cada movimiento de tu cuerpo generara una carga 
+   electrica la cual no tiene limite de almacenamiento. Puedes usar la carga como queras.
+
+*** Costo:
+    .5 Unidades de sangre por USO( Un uso concede 24 horas de Capacitividad). El costo en sangre se cobra a lo largo de 
+    la duracion de la capacitividad.
+*** Enfriamiento 
+    8 horas.
+*** Cualidades necesarias
+    Inteligencia
+    Serenidad
+
+** Agua control
+   La habilidad mas extraña, poderosa y peligrosa de todas las animas. Permite manipular el agua a nivel molecular, 
+   otorgando al usuario la capacidad de  manipular todo ser viviente que posea agua en su interior, puede curar o matar todo lo que este
+   a su control. Eso incluye al anfitrion.
+
+*** Costo
+    9ml de sangre por minuto, el costo se duplica cada minuto que se usa  la habilidad.
+
+*** Enfriamiento
+    SIN ENFRIAMIENTO
+
+*** Cualidades necesarias:
+    Desconocidas
+    
+    
