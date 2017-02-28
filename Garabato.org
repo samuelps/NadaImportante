@@ -21,7 +21,7 @@
 
 * Nombres tentativos para las animas:
   Quiltros -> Representacion humana de ojos cafe claro imponentes y tez marron
-  
+  Leellog -> Undefined XD
 
 * Habilidades
 
@@ -78,7 +78,7 @@
 *** Cualidades necesarias
     Desconocidas
 
-** Morador
+** Visitante universal
    Teletransporta al usuario a una ubicacion que pueda ver fisicamente o en la que ya haya estado antes, canaliza un flujo de energia
    por 9 segundos para luego aparecer en la ubicacion deseada, puedes llevar acompañantes, pero aumenta el costo de la habilidad y su
    enfriamiento.
@@ -122,7 +122,9 @@
 ** Agua control
    La habilidad mas extraña, poderosa y peligrosa de todas las animas. Permite manipular el agua a nivel molecular, 
    otorgando al usuario la capacidad de  manipular todo ser viviente que posea agua en su interior, puede curar o matar todo lo que este
-   a su control. Eso incluye al anfitrion.
+   a su control. Eso incluye al anfitrion. 
+
+   Solo existe 1 anima con esta capacidad.
 
 *** Costo
     9ml de sangre por minuto, el costo se duplica cada minuto que se usa  la habilidad.
@@ -134,3 +136,51 @@
     Desconocidas
     
     
+** Angel de la guarda
+   El anima protege al beneficiado de cualquier evento, cosa u entidad que atente contra su
+   vida durante durante un plazo determinado de tiempo, el beneficiado no puede morir durante el plazo. 
+   El anfitrion acepta un enorme costo de sangre acambio de proteccion absoluta de un tercero, 
+   angel de la guarda no protege al anfitrion.
+*** Costo
+    40% de tu sangre maxima acambio de 24 dias naturales de proteccion.
+*** Enfriamiento:
+    Ninguno
+*** Cualidades necesarias
+    Amor verdadero.
+    Sacrificio.
+    Generosidad.
+
+** Interrogador perfecto
+   Estableces un vinculo con un objetivo, mientras este dure, la voluntad de él se nulifica, forzandolo a 
+   responder todas tus preguntas con la verdad.
+*** Costo
+    100ml de sangre para iniciar vinculo. 3% de tu sangre actual cada minuto que dure el enlace
+*** Enfriamiento
+    3 horas.
+*** Cualidades
+    Sinceridad
+    Valor
+
+** Destrezas sincronizadas
+   El anfitrion crea un enlace de virtudes con un objetivo. El enlace provee a cada parte las destrezas, 
+   fortalezas y habilidades (Incluye habilidades de animas) de su contraparte. El enlace tiene un costo
+   medio-bajo de sangre pero un enfriamiento elevado.
+
+*** Costo:
+    3% de tu sangre actual cada 30 segundos.
+*** Enfriamiento
+    3 dias naturales.
+*** Cualidades necesarias
+    Comprension
+    Liderazgo
+
+** Maestro cinetico
+   El anfitrion gozara de inmunidad a todo daño proveniente de impactos fisicos o calor, almacenando 
+   toda la energia y liberandola de golpe de forma omnidireccional o direccional.
+*** Costo
+    1% de sangre maxima cada 5 segundos
+*** Enfriamiento
+    5 minutos
+*** Cualidades
+    Valor
+
