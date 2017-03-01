@@ -26,16 +26,16 @@
 * Habilidades
 
 ** Kinesia
-   Permite mover objetos usando solo su conciencia, permitiendole mover toda clase de objetos y a si mismo mientras el efecto dure.
+   Permite mover objetos usando solo su conciencia, permitiendole mover toda clase de objetos y a si mismo 
+   mientras el efecto dure.
    
 *** Costo: 
     .20 unidades de sangre al iniciar y 1% de tu sangre actual cada minuto que la uses.
-
 *** Enfriamiento
     45 segundos
-
 *** Cualidades necesarias
     Inteligencia
+
 
 ** Seguro de vida
    Complejo, riesgozo pero muy util, el usuario acepta dar una enorme porcion no letal de sangre, a cambio
@@ -43,45 +43,43 @@
    
 *** Costo 
     Costo 42% de tu sangre maxima.
-
 *** Enfriamiento
     50 dias naturales de enfriamiento
-
 *** Cualidades necesarias
     Valor
     Sacrificio
 
+
 ** Siempre a mi lado
-   El usuario entrega una cantidad de sangre cada 15 segundos, a cambio, todos a 10 metros a su redonda ven acelerada drasticamente
-   su regeneracion fisica y su salud mental. Requiere de un anfitrion de corazon generoso y desprendido.
+   El usuario entrega una cantidad de sangre cada 15 segundos, a cambio, todos a 10 metros a su redonda ven
+   acelerada drasticamente su regeneracion fisica y su salud mental. Requiere de un anfitrion de corazon 
+   generoso y desprendido.
 
 *** Costo 
     50 ml de sangre cada 15 segundos
-
 *** Enfriamiento
     Sin enfriamiento.
-
 *** Cualidades necesarias
     Generosidad
     Desprendimiento
 
+
 ** Esclavista
-   Doblegas la voluntad de un ente vivo, forzandolo a hacer lo que tu quieras durante el efecto. Tiene menos probabilidad de exito en seres
-   con mentes fuertes.
+   Doblegas la voluntad de un ente vivo, forzandolo a hacer lo que tu quieras durante el efecto. Tiene menos
+   probabilidad de exito en seres con mentes fuertes.
 
 *** Costo:
     Progresion de fibbonacci en mililitros cada .5 segundos hasta lograr el estado de esclavo
-
 *** Enfriamiento:
     10 minutos
-
 *** Cualidades necesarias
     Desconocidas
 
+
 ** Visitante universal
-   Teletransporta al usuario a una ubicacion que pueda ver fisicamente o en la que ya haya estado antes, canaliza un flujo de energia
-   por 9 segundos para luego aparecer en la ubicacion deseada, puedes llevar acompañantes, pero aumenta el costo de la habilidad y su
-   enfriamiento.
+   Teletransporta al usuario a una ubicacion que pueda ver fisicamente o en la que ya haya estado antes, canaliza
+   un flujo de energia por 9 segundos para luego aparecer en la ubicacion deseada, puedes llevar acompañantes,
+   pero aumenta el costo de la habilidad y su enfriamiento.
 
 *** Costo:
     .5 Unidades de sangre mas 80ml por cada acompañante
@@ -91,11 +89,12 @@
     Valor
     Curiosidad
 
+
 ** Zona kinematica
 
-   Tras un gran grito definido por el jugador, todo a 100 metros a la redonda del usuario pasa a ser Kinematico, la gravedad, la inercia y el impulso se anulan.
-   Todo pasa a estar a voluntad del anfritrion, siendo este, libre de moverse  en cualquier angulo y modificar todo a su gusto durante 
-   9 minutos.
+   Tras un gran grito definido por el jugador, todo a 100 metros a la redonda del usuario pasa a ser Kinematico, 
+   la gravedad, la inercia y el impulso se anulan. Todo pasa a estar a voluntad del anfritrion, siendo este,
+   libre de moverse  en cualquier angulo y modificar todo a su gusto durante 9 minutos.
 
 *** Costo
     1 unidad de sangre.
@@ -105,10 +104,13 @@
     Buen humor
     Templanza
 
+  
+
+
 ** Capacitividad 
    El anima habitara en ti y modificara un poco todo tu sistema nervioso, te condecera
    de una capacidad de movimiento unica, cada movimiento de tu cuerpo generara una carga 
-   electrica la cual no tiene limite de almacenamiento. Puedes usar la carga como queras.
+   electrica la cual no tiene limite de almacenamiento. Puedes usar energia almacenada como queras.
 
 *** Costo:
     .5 Unidades de sangre por USO( Un uso concede 24 horas de Capacitividad). El costo en sangre se cobra a lo largo de 
@@ -119,19 +121,18 @@
     Inteligencia
     Serenidad
 
+
 ** Agua control
-   La habilidad mas extraña, poderosa y peligrosa de todas las animas. Permite manipular el agua a nivel molecular, 
-   otorgando al usuario la capacidad de  manipular todo ser viviente que posea agua en su interior, puede curar o matar todo lo que este
-   a su control. Eso incluye al anfitrion. 
+   La habilidad mas extraña, poderosa y peligrosa de todas las animas. Permite manipular el agua a 
+   nivel molecular,otorgando al usuario la capacidad de  manipular todo ser viviente que posea agua
+   en su interior, puede curar o matar todo lo que este a su control. Eso incluye al anfitrion. 
 
    Solo existe 1 anima con esta capacidad.
 
 *** Costo
     9ml de sangre por minuto, el costo se duplica cada minuto que se usa  la habilidad.
-
 *** Enfriamiento
     SIN ENFRIAMIENTO
-
 *** Cualidades necesarias:
     Desconocidas
     
@@ -141,6 +142,7 @@
    vida durante durante un plazo determinado de tiempo, el beneficiado no puede morir durante el plazo. 
    El anfitrion acepta un enorme costo de sangre acambio de proteccion absoluta de un tercero, 
    angel de la guarda no protege al anfitrion.
+
 *** Costo
     40% de tu sangre maxima acambio de 24 dias naturales de proteccion.
 *** Enfriamiento:
@@ -150,9 +152,11 @@
     Sacrificio.
     Generosidad.
 
+
 ** Interrogador perfecto
    Estableces un vinculo con un objetivo, mientras este dure, la voluntad de él se nulifica, forzandolo a 
    responder todas tus preguntas con la verdad.
+
 *** Costo
     100ml de sangre para iniciar vinculo. 3% de tu sangre actual cada minuto que dure el enlace
 *** Enfriamiento
@@ -160,6 +164,7 @@
 *** Cualidades
     Sinceridad
     Valor
+
 
 ** Destrezas sincronizadas
    El anfitrion crea un enlace de virtudes con un objetivo. El enlace provee a cada parte las destrezas, 
@@ -174,9 +179,11 @@
     Comprension
     Liderazgo
 
+
 ** Maestro cinetico
    El anfitrion gozara de inmunidad a todo daño proveniente de impactos fisicos o calor, almacenando 
    toda la energia y liberandola de golpe de forma omnidireccional o direccional.
+
 *** Costo
     1% de sangre maxima cada 5 segundos
 *** Enfriamiento
@@ -184,3 +191,27 @@
 *** Cualidades
     Valor
 
+** Ojo maestro
+   Provee la capacidad de ver/interpretar todo el espectro electromagnetico, eso inclye a los fotones, radiacion
+   electromagnetismo etc.
+
+*** Costo
+    8ml de sangre por segundo
+*** Enfriamiento
+    15 segundos
+*** Cualidades
+    Curiosidad.
+
+** Manipulador de fotones
+   Manipula los fotones a tu alrededor, moldealos para crear lo que desees,puedes modificar su trayectoria, almacenarlos
+   y dirijirlos como ataques o defensa.
+
+*** Costo
+    30ml de sangre por uso
+
+*** Enfriamiento
+    18 segundos
+
+*** Cualidades
+    Sinceridad
+    FLOW
