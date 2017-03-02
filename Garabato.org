@@ -126,8 +126,8 @@
    La habilidad mas extraña, poderosa y peligrosa de todas las animas. Permite manipular el agua a 
    nivel molecular,otorgando al usuario la capacidad de  manipular todo ser viviente que posea agua
    en su interior, puede curar o matar todo lo que este a su control. Eso incluye al anfitrion. 
-
-   Solo existe 1 anima con esta capacidad.
+   
+   Esta habilidad solo es provista por una y solo un anima.
 
 *** Costo
     9ml de sangre por minuto, el costo se duplica cada minuto que se usa  la habilidad.
@@ -215,3 +215,32 @@
 *** Cualidades
     Sinceridad
     FLOW
+
+** Retribucion forzada
+   Tras entrar en combate, los agresores adquieren una maldicion, lo que causa que el anfitrion vaya drenando la salud de 
+   todos sus atacantes cada 5 segundo, entre mas daño le hagan, mas salud perderan ya que el drenado no parará hasta la
+   sanacion completa del anfitrion. Esta habilidad pasiva puede y de hecho, usualmente mata a los agresores afectados, 
+   una vez que la maldicion se activa, no puede detenerse hasta la sanacion completa de su fuente.
+
+*** Costo
+    25% de la sangre que pierdas en el combate.
+*** Enfriamiento 
+    Ninguno
+*** Cualidades
+    Paz iterior
+    
+
+** Favor postmortem
+   Todo organismo muerto se reanimara para ayudarte en una orden dada y obedecerte. Esta habilidad tiene un costo enorme 
+   y un enfriamiento igual. Esta habilidad solo es provista por una y solo un anima
+
+*** Costo
+    30% de tu sangre actual
+*** Enfriamiento
+    30 dias naturales
+*** Cualidades
+    Furia
+    Voluntad de acero.
+
+** 
+
