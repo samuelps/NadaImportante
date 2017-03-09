@@ -21,7 +21,39 @@
 
 * Nombres tentativos para las animas:
   Quiltros -> Representacion humana de ojos cafe claro imponentes y tez marron
-  Leellog -> Undefined XD
+  Leellog -> Se me ocurrio...  
+  Qanun -> Codigo
+  Naam -> Anagrama de agua (arabe).
+  Haraka -> Movimiento (arabe)
+  Quww -> Energia (arabe)
+  Maawlt -> Anagrama de muerte (arabe)
+  Taewid -> Fragmento de Compensacion (arabe)
+  Abudia -> Fonetica de Esclavitud (arabe)
+  Sahm -> Compartir (arabe)
+  Haris -> Fragmento de Angel Guardian (arabe)
+  Saytara -> Control (Arabe)
+  Tashrih -> Postmortem (Arabe)
+  
+  
+
+* Nombres tentativos para personajes:
+  Tailer
+  Svea
+  Jordan
+  Alisha
+  Caleya
+  Meison
+  Reiall
+  Rohan
+  Rowen
+  Georgeana
+  Jalean
+  Alisha
+  Sylvia
+
+
+* Historia
+
 
 * Habilidades
 
@@ -191,6 +223,7 @@
 *** Cualidades
     Valor
 
+
 ** Ojo maestro
    Provee la capacidad de ver/interpretar todo el espectro electromagnetico, eso inclye a los fotones, radiacion
    electromagnetismo etc.
@@ -201,6 +234,7 @@
     15 segundos
 *** Cualidades
     Curiosidad.
+
 
 ** Manipulador de fotones
    Manipula los fotones a tu alrededor, moldealos para crear lo que desees,puedes modificar su trayectoria, almacenarlos
@@ -215,6 +249,7 @@
 *** Cualidades
     Sinceridad
     FLOW
+
 
 ** Retribucion forzada
    Tras entrar en combate, los agresores adquieren una maldicion, lo que causa que el anfitrion vaya drenando la salud de 
