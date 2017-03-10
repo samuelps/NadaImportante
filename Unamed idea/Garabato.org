@@ -50,6 +50,9 @@
   Jalean
   Alisha
   Sylvia
+  Xan
+  Fausto
+
 
 
 * Historia
@@ -76,7 +79,7 @@
 *** Costo 
     Costo 42% de tu sangre maxima.
 *** Enfriamiento
-    50 dias naturales de enfriamiento
+    80 dias naturales de enfriamiento
 *** Cualidades necesarias
     Valor
     Sacrificio
@@ -266,7 +269,7 @@
     
 
 ** Favor postmortem
-   Todo organismo muerto se reanimara para ayudarte en una orden dada y obedecerte. Esta habilidad tiene un costo enorme 
+   Todo organismo muerto se reanimara para protejerte y obedecerte. Esta habilidad tiene un costo enorme 
    y un enfriamiento igual. Esta habilidad solo es provista por una y solo un anima
 
 *** Costo
@@ -277,5 +280,17 @@
     Furia
     Voluntad de acero.
 
-** 
+** Liderazgo primigeneo
+   Todos los orgamismos vivos seguiran tus ordenes y te protegeran, esta habilidad posee un costo alto
+   y un enfriamiento medio.
+
+*** Costo
+    30% de tu sangre actual
+*** Enfriamiento
+    30 dias naturales
+*** Cualidades
+    Amor verdadero
+    Voluntad de acero
+
+
 
