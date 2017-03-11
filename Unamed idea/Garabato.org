@@ -10,6 +10,7 @@
   ** Condiciones:
   - La sangre se les debe conferir de forma voluntaria y conciente.
   - No pueden hacer uso de engaños ni trampas de ningun tipo.
+  -  
   
   Estos seres a quienes los llamaremos, animas, con el paso de los siglos desarrollaron habilidades unicas
   basadas en su inata capacidad de moldear energia. Aceptaron el trato de Ihl, entraron a nuestro mundo 
@@ -33,7 +34,7 @@
   Haris -> Fragmento de Angel Guardian (arabe)
   Saytara -> Control (Arabe)
   Tashrih -> Postmortem (Arabe)
-  
+  Sakan -> Vivir (Arabe)
   
 
 * Nombres tentativos para personajes:
@@ -280,6 +281,7 @@
     Furia
     Voluntad de acero.
 
+    
 ** Liderazgo primigeneo
    Todos los orgamismos vivos seguiran tus ordenes y te protegeran, esta habilidad posee un costo alto
    y un enfriamiento medio.
@@ -293,4 +295,36 @@
     Voluntad de acero
 
 
+
+    
+
+** Intervencion A-Temporal
+   Explcar como es que funciona esta habilidad UNICA, no es posible con nuestros conocimientos actuales
+   a si que lo pondremos tan facil como podamos... Tu conciencia puede viajar a cualquier 
+   punto en el espacio y el tiempo. Permite cambiar el curso de los eventos en una realidad nueva, realidad
+   que es producto de tu intervencion. Al crear estas dos nuevas realidades, tu puedes elegir en cual vivir, 
+   pero el costo es el mas alto de todo el juego. Aceptar vivir en esa nueva realidad involucra perder todo 
+   recuerdo de tu existencia y nacer como un nuevo humano.
+
+   Existe una probabilidad de 1 por cada millon de que esta alma te seleccione como anfitrion.
+
+*** Costo:
+    100% de tu sangre maxima.
+*** Enfriamiento
+    USO UNICO
+*** Cualidades
+    Desprendimiento
+    Sacrificio
+
+
+** Intangibilidad parcial 
+   La materia de tu cuerpo dejara de interactuar con todo lo que te rodea, luz, gravedad, calor, 
+   permitiendote moverte libremente y atravezar unidades por un corto periodo de tiempo.
+
+*** Costo
+    1 unidad de sangre por minuto.
+*** Enfriamiento
+    30 segundos
+*** Cualidades
+    Desconocidas
 
