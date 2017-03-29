@@ -38,7 +38,7 @@
   Tashrih -> Postmortem (Arabe)
   Sakan -> Vivir (Arabe)
   
-
+  
 * Nombres tentativos para personajes:
   Tailer
   Svea
@@ -330,3 +330,18 @@
 *** Cualidades
     Desconocidas
 
+
+** Magnetar
+   Los magnetares son estrellas jodidamente extrañas,poseen una fuerza magnetica es descomunal,
+   magnetar provee esta fuerza, permite manipular todo metal a voluntad, pero es 
+   EXTREMADAMENTE inestable, cualquier error y su fuersa crecera exponencialmente 
+   y destruira a nivel atomico toda materia que este en su camino. No deberias usar esta
+   habilidad, pues te estas metiendo con una fuerza de la realidad misma.
+*** Costo
+    Habilidad de uso por pre-pago, cuesta 19 unidades de sangre por uso... si, asi de cara es.
+*** Enfriamiento
+    Ninguno
+*** Cualidades
+    Inteligencia
+    Paciencia
+    Temeridad
