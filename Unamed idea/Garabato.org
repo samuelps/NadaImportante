@@ -247,7 +247,7 @@
    y dirijirlos como ataques o defensa.
 
 *** Costo
-    30ml de sangre por uso
+    90ml de sangre por uso
 
 *** Enfriamiento
     18 segundos
