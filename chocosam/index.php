@@ -3,23 +3,25 @@
 <head>
 	<title>Chocosam</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="css/turbocss.css">
 	<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 	<script type="text/javascript" src="js/bootstrap.js"></script>
 <body>
 
-<?php 
-echo 'Bienvenido a mi self <br>';
-?>
+
 
 <div id="sideBar">
-	Esta sera la side bar
+	<div id="perfil">Perfil</div>
+	<div id="CV">CV</div>
+	<div id="log">Log del averno</div>
 
 </div>
-
-<div>
-	Esto sera el turbo container central del centro
+<div  id="mainContainer">
+<?php 
+echo 'Estoy creando esto <br>';
+?>
+	Esto no es 
 </div>
 
-<div>esto sera el footer too feo</div>
 </body>
 </html>
