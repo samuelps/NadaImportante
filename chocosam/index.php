@@ -20,7 +20,7 @@
 <?php 
 echo 'Estoy creando esto <br>';
 ?>
-	Sueno sukistrukis, sone que habia lagos grandes de agua cristalina pero extremadamente salada, una compania lograba crear un prosceso que convertia el agua salada derectamente en energiatl, y se daba un monopolio de agua, y de poderio militar por ese recurso, robots avanzados eran creados, uno de esos robots adquiria conciencia y le gustaba ver pechos de humanas.
+	Sueno sukistrukis, sone que habia lagos grandes de agua cristalina pero extremadamente salada, una compania lograba crear un prosceso que convertia el agua salada derectamente en energiatl, y se daba un monopolio de agua, y de poderio militar por ese recurso, robots avanzados eran creados, uno de esos robots adquiria conciencia y le gustaba ver pechos de humanas. XD
 </div>
 
 </body>
