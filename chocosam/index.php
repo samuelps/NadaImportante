@@ -12,12 +12,18 @@
 
 	<div id="sideBar">
 		<div id="perfil">Perfil del ORTO</div>
-		<div id="CV"  class="menu">Ridiculum Vitae</div>
-		<div id="log" class="menu">
-			<i class="fa fa-book fa-6" aria-hidden="true"></i>Log del averno
+		<div id="CV"  class="menu">
+			<i class="fa fa-file-text fa-6" aria-hidden="true" style="font-size: 4em;"></i>
+			<br><h5><b>Ridiculum Vitae</b></h5>
 		</div>
-		<div id="log" class="menu">1001 Mandamientos</div>
-		<div class="menu"
+		<div id="log" class="menu">
+			<i class="fa fa-book fa-6" aria-hidden="true" style="font-size: 4em;"></i>
+			<br><h5><b>Log del averno</b></h5>
+		</div>
+		<div id="log" class="menu">			
+			<i class="fa fa-book fa-6" aria-hidden="true" style="font-size: 4em;"></i>
+			<br><h5><b>Log del averno</b></h5>
+		</div>
 	
 	</div>
 	<div class="container"  id="mainContainer">
